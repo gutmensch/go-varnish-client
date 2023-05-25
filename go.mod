@@ -1,4 +1,4 @@
-module github.com/martin-helmich/go-varnish-client
+module github.com/gutmensch/go-varnish-client
 
 require (
 	github.com/golang/glog v1.1.0
