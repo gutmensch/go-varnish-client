@@ -3,7 +3,6 @@ package varnishclient
 import (
 	"context"
 	"fmt"
-	"strconv"
 	"strings"
 )
 
